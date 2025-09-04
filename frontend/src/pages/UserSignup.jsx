@@ -128,7 +128,7 @@ import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { UserDataContext } from "../context/UserContext";
 import Lottie from "lottie-react";
-import carAnimation from "../assets/car.json"; // ✅ same red car as background
+import carAnimation from "../assets/Car.json"; // ✅ same red car as background
 
 const UserSignup = () => {
   const [email, setEmail] = useState("");

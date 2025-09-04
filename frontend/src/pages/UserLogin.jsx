@@ -92,7 +92,7 @@ import axios from 'axios'
 import { UserDataContext } from '../context/UserContext'
 import SawariLogo from '../assets/cars.png'
 import Lottie from 'lottie-react'
-import carAnimation from '../assets/car.json'
+import carAnimation from '../assets/Car.json'
 
 const UserLogin = () => {
   const [email, setEmail] = useState('')

@@ -39,7 +39,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Lottie from "lottie-react";
-import carAnimation from "../assets/car.json";
+import carAnimation from "../assets/Car.json";
 import SawariLogo from "../assets/cars.png";
 
 const Start = () => {
